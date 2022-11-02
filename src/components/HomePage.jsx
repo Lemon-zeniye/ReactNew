@@ -124,6 +124,6 @@ const ImgContainer = styled.div`
     }
        
 `
-//yaekob melikt 
+
 
 export default HomePage;
